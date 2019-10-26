@@ -7,7 +7,17 @@ Library    SeleniumLibrary
 *** Test Cases ***
 
 MyFirstTest
-    Log    HelloWorld....    
+    Log    HelloWorld.... 
+    
+
+MySecondTest
+    Log    HelloWorld2....    
+
+
+
+MyThirdTest
+    Log    HelloWorld3....    
+   
     
 
 FirstSeleniumTest
